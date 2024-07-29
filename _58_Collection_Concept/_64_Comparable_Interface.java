@@ -48,7 +48,7 @@ Student[rollNo=1, name=praveen, marks=165]
 
 //                                       sorting the Student's marks
 //if we want sort() Method i want to implements Comparable<Student> in Class
-/*
+
 class Student implements Comparable<Student>{  
 	int rollNo;
 	String name;
@@ -84,7 +84,7 @@ public class Comparable_Interface {
 			System.out.println(students.get(i));
 		}
 	}
-}*/
+}
 
 /*
 output:
@@ -191,7 +191,7 @@ Student[rollNo=9, name= gowri sankar , marks=134]
 */
 
 // Even if we have 'Comparable' we can @Override with the help of 'Comparator Object'
-
+/*
 class Student implements Comparable<Student>{  // if i want sort() Method i want to implements Comparable
 	int rollNo;
 	String name;
@@ -227,7 +227,7 @@ public class _64_Comparable_Interface {
 			System.out.println(students.get(i));
 		}
 	}
-}
+}*/
 
 /*
 output:
