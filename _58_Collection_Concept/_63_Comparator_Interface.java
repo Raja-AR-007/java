@@ -11,7 +11,7 @@ public class _63_Comparator_Interface {
 //                                                        if Condition
 // Comparator is a Interface.
 // By using Comparator we can sort the values from last Digit.
-	/*
+	
 	public static void main(String[] args) {
 		
 		List<Integer> values=new ArrayList<>();  // open Declaration of 'List'
@@ -34,7 +34,7 @@ public class _63_Comparator_Interface {
 		for(Integer o: values) {  
 			System.out.println(o);
 		}
-	}*/
+	}
 	
 //                                             'Ternary Operator' is used instead of if Condition
 	/*
@@ -103,7 +103,7 @@ public class _63_Comparator_Interface {
 	
 // Comparator is a Interface.
 // By using Comparator we can sort the values from last Digit.
-	
+	/*
 	public static void main(String[] args) {
 		
 		List<Integer> values=new ArrayList<>();  // open Declaration of 'List'
@@ -117,7 +117,7 @@ public class _63_Comparator_Interface {
 		for(Integer o: values) {  
 			System.out.println(o);
 		}
-	}
+	}*/
 	
 	/*
 	output:
